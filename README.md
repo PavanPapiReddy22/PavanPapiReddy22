@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Building a Model Context Protocol (MCP) tailored for AWS Data Engineering workflows, enabling seamless interaction with services like S3, Glue, Athena, and Redshift through natural language. **AWS Data engineer MCP**
 
-- 🌱 I’m currently learning **Learning cutting-edge techniques in model compression, distillation, and their application to real-world data systems.**
+- 🌱 I’m currently **Learning cutting-edge techniques in model compression, distillation, and their application to real-world data systems.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PavanPapiReddy22](https://github.com/PavanPapiReddy22)
 
