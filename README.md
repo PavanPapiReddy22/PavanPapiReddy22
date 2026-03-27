@@ -1,6 +1,5 @@
 <h1 align="center">Pavan Papi Reddy</h1>
 <p align="center">AI/ML Engineer · LLM infrastructure · open-source tooling</p>
-<p align="center">Previously: AI Engineer @ U.S. Bank · ML Engineer @ Target</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanpapireddy22&label=Profile%20views&color=0e75b6&style=flat" alt="pavanpapireddy22" />
